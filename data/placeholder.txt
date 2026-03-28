@@ -1,1 +1,9 @@
-This folder contains the dataset and saved model files.
+Dataset: Sleep Health and Lifestyle Dataset
+Source: Kaggle
+URL: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
+
+Instructions:
+1. Download the CSV from the Kaggle link above
+2. Rename it to: Sleep_health_and_lifestyle_dataset.csv
+3. Place it in this data/ folder
+4. Then run the notebooks in order 01 → 02 → 03 → 04
